@@ -1,0 +1,60 @@
+{
+    "bot": {
+        "owner": "BOT YAPIMCISININ ID'SI",
+        "botdurum": "YOUTUBE BORANGKDN",
+        "prefix": "PREFİXİNİ YAZMAZSAN CALISMAZ APTAL BOTCU",
+        "GuildID": "SUNUCU ID"
+    },
+    "penals": {
+        "ban": {
+            "staff": "BAN YETKİLİSİ ID",
+            "log": "BAN LOG ID",
+            "limit": 3
+        },
+        "jail": {
+            "staff": "JAİL YETKİLİSİ ID",
+            "roles": "CEZALI ID",
+            "log": "JAİL LOG ID",
+            "limit": 5
+        },
+        "mute": {
+            "staff": "MUTE YETKİLİSİ ID",
+            "roles": "MUTED ROL ID",
+            "log": "MUTE LOG ID",
+            "limit": 5
+        },
+      "points": {
+        "mutepoints": "MUTE PUAN",
+        "banpoints": "BAN PUAN",
+        "jailpoints": "JAİL PUAN"
+      }
+    },
+    "logs": {
+        "messagelog": "MESAJ LOG ID",
+        "voicelog": "SES LOG ID",
+        "taglog": "TAG LOG ID"
+
+    },
+    "roles": {
+        "boosterrole": "BOOSTER ROLÜ ID",
+        "viprole": "VİP ROLÜ ID",
+        "designerrole": "TASARIMCI ROLÜ ID",
+        "musiciansrole": "MÜZİSYEN ROLÜ ID",
+        "familyrole": "TAGLI ROL ID"
+    },
+    "meeting": {
+        "katıldı": "KATILDI ROLÜ ID",
+        "yetkili": "KATILDI YETKİLİ ROL ID",
+        "meetingchannel": "KATILDI SESLİ KANALI ID"
+    },
+    "channels": {
+        "chat": "CHAT KANALI ID",
+        "voicechannel": "BOT SES KANALI ID"
+    },
+    "parents": {
+        "publicparents": "PUBLİC KATEGORİSİ ID"
+    },
+    "registration": {
+        "GuilDTag": "SUNUCU TAGINIZ"
+    }
+}
