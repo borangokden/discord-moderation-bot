@@ -140,7 +140,7 @@ client.on("message", async message => {
     };
 });
 
-client.login(process.env.token).then(x => console.log(`[BORANGKDN-BOT] ${client.user.username} Olarak giriş yaptı`)).catch(err => console.log(`[BORANGKDN-BOT] Giriş yapamadı sebep: ${err}`))
+client.login(config.bot.token).then(x => console.log(`[BORANGKDN-BOT] ${client.user.username} Olarak giriş yaptı`)).catch(err => console.log(`[BORANGKDN-BOT] Giriş yapamadı sebep: ${err}`))
 
 client.on("userUpdate", async function(oldUser, newUser) { // BoranGkdn 
     const guildID = (config.bot.GuildID)
