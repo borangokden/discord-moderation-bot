@@ -1,5 +1,6 @@
 {
     "bot": {
+        "token": "BOTUN TOKENİ",
         "owner": "BOT YAPIMCISININ ID'SI",
         "botdurum": "YOUTUBE BORANGKDN",
         "prefix": "PREFİXİNİ YAZMAZSAN CALISMAZ APTAL BOTCU",
